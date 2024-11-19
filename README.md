@@ -1,12 +1,12 @@
 # Plant-trees-with-Google-Ecosia
 
+⚠️ $\textcolor{orange}{\textsf{This project has been discontinued for now. It is unclear if it was ever effective or aligned with its goals}}$ 
+
+<hr>
 
 Ecosia Search Enhancer adds #g to every Ecosia search, helping you plant trees with each query. Make a difference with every search!
 
-
 ![302109](https://github.com/user-attachments/assets/47c8f538-c66c-487f-97d0-b16f334b1d96)
-
-
 
 The Ecosia Search Enhancer automatically adds #g to every search on Ecosia, helping plant trees with each query. Track your searches and contribute to reforestation effortlessly!
 
